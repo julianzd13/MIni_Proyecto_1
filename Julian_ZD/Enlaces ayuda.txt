@@ -1,0 +1,4 @@
+
+Derivada
+https://stackoverflow.com/questions/16841729/how-do-i-compute-the-derivative-of-an-array-in-python
+https://numpy.org/doc/stable/reference/generated/numpy.diff.html?highlight=diff#numpy.diff
