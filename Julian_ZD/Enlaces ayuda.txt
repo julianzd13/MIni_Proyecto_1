@@ -2,3 +2,20 @@
 Derivada
 https://stackoverflow.com/questions/16841729/how-do-i-compute-the-derivative-of-an-array-in-python
 https://numpy.org/doc/stable/reference/generated/numpy.diff.html?highlight=diff#numpy.diff
+
+////////////////////////////////////////////////////////////
+Potencia espectral
+
+https://scipy.github.io/devdocs/generated/scipy.signal.welch.html
+https://www.kite.com/python/answers/how-to-plot-a-power-spectrum-in-python
+
+////////////////////////////////////////////////////////////////////////
+Spectral Centoid
+
+https://stackoverflow.com/questions/24354279/python-spectral-centroid-for-a-wav-file
+https://stackoverflow.com/questions/60509010/spectral-centroid-calculation-using-librosa
+
+////////////////////////////////////////////////////////////////////////
+Encontrar Picos
+
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.find_peaks.html
